@@ -21,15 +21,23 @@ Bu repo, Arduino'ya yeni başlayanlar için adım adım ilerleyen, temel seviyed
 
 ## Repoyu Nasıl Kullanırsınız?
 
+
 **Klonlama:** Repoyu bilgisayarınıza klonlayın.
+
 **Proje Seçimi:** İlgilendiğiniz projeyi seçin.
+
 **Kod İnceleme:** Kodları dikkatlice inceleyin ve açıklamaları okuyun.
+
 **Devre Kurulumu:** Devre şemasına göre devrenizi kurun.
+
 **Yükleme:** Kodu Arduino'ya yükleyin ve çalıştırın.
 
 ## Proje Kategorileri
 
 **Temel Projeler:** Arduino'nun temel bileşenlerini ve programlama yapılarını öğrenmek için ideal projeler.
+
 **Sensörler:** Çeşitli sensörlerle veri toplama ve işleme projeleri.
+
 **Aktüatörler:** LED'ler, motorlar gibi aktüatörleri kontrol etme projeleri.
+
 **İleri Seviye Projeler:** Daha karmaşık projeler için ilham alın.
